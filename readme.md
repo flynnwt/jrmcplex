@@ -21,7 +21,8 @@ To recursively apply for directories starting with 'g' and change from 5 stars t
 python app.py -q -3 "Shared/Media/Music/Rock/g*" 
 ```
 
-I ran 22085 files in 
+I ran 22085 files in 4 hours.
+
 
 
 #### Problems
